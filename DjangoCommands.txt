@@ -1,0 +1,83 @@
+django-admin startproject my_tennis_club
+
+python3 manage.py runserver
+
+
+python3 manage.py startapp members
+
+
+python3 manage.py makemigrations members
+
+python3 manage.py migrate
+
+
+python3 manage.py shell
+
+
+python3 manage.py createsuperuser
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
