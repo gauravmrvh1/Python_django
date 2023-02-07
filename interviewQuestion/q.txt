@@ -1,0 +1,29 @@
+****Python****
+Lists [ ] -->ordered, allows duplicates, supports indexing, mutable
+Sets { } -->Unordered, does not allow duplicates, will not support indexing, mutable(we can add using add())
+tuples () -->ordered, allows duplicates, supports indexing, immutable(same as lists except mutability)
+Dict { } -->ordered,  stores key value pairs, does not allow duplicates keys, mutable but keys are not duplicated
+
+1.Explain mutable vs immutable types?
+2.What is the lambda function?
+3.What is docstring in Python?
+4.How is Multithreading achieved in Python?
+5.Which one of the following is not the correct syntax for creating a set in Python?
+a. set([[1,2],[3,4],[4,5]])
+b. set([1,2,2,3,4,5])
+c. {1,2,3,4}
+d. set((1,2,3,4))
+6.What is monkey patching in Python?
+7.Explain split() and join() functions in Python?
+8.What is negative index and why are they used?
+9.Difference between list and tuples?
+10.Difference between range and x-range
+
+
+service container in laravel
+Delete and truncate diff, connection persistant
+artisan command
+service container in laravel
+dictionary in python
+is tuple mutable?
+Delete and truncate diff, connection persistant
